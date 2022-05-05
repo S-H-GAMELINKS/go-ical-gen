@@ -3,6 +3,7 @@ module github.com/S-H-GAMELINKS/go-ical-gen
 go 1.18
 
 require (
+	github.com/arran4/golang-ical v0.0.0-20220424140932-da9e1dd56623 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/go-playground/locales v0.13.0 // indirect
